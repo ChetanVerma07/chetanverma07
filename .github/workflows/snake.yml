@@ -1,7 +1,7 @@
 name: GitHub Contribution Snake
 on:
   schedule:
-    - cron: '0 0 * * *'   # runs daily at midnight UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,17 +10,21 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
-      
+
       - name: Generate Snake SVG
         uses: platane/snk@v1.0.1
         with:
           github_user_name: ChetanVerma07
           svg_out_path: github-contribution-grid-snake.svg
-      
+
       - name: Commit SVG
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add github-contribution-grid-snake.svg
-          git commit -m "Update snake"
-          git push
+          if [ -f github-contribution-grid-snake.svg ]; then
+            git add github-contribution-grid-snake.svg
+            git commit -m "Update snake" || echo "No changes to commit"
+            git push
+          else
+            echo "SVG not generated, skipping commit"
+          fi
