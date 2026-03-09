@@ -110,6 +110,8 @@ Actively exploring security concepts and hands-on hacking with Kali Linux.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChetanVerma07&theme=tokyonight)  
 ![Contribution Snake](https://github.com/chetanverma07/chetanverma07/blob/output/github-contribution-grid-snake.svg)  
 
+![Contribution Snake](https://github.com/chetanverma07/chetanverma07/blob/main/github-contribution-grid-snake.svg)
+
 </div>
 
 ---
