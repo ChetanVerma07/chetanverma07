@@ -1,7 +1,7 @@
 name: GitHub Contribution Snake
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'   # runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -10,11 +10,13 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
+      
       - name: Generate Snake SVG
         uses: platane/snk@v1.0.1
         with:
-          username: chetanverma07
-          color: "00F7FF"
+          github_user_name: chetanverma07
+          svg_out_path: github-contribution-grid-snake.svg
+      
       - name: Commit SVG
         run: |
           git config user.name "github-actions"
