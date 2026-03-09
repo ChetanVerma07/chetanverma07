@@ -8,8 +8,8 @@
 
 **Full-Stack Developer | AI Enthusiast | Linux & Security Explorer**
 
-I'm a 1st-year ECE student passionate about building interactive web experiences, experimenting with AI, and exploring cybersecurity.  
-I love transforming creative ideas into functional projects—from beautifully animated websites to intelligent AI-powered tools.
+1st-year ECE student passionate about building interactive web experiences, experimenting with AI, and exploring cybersecurity.  
+I turn ideas into functional projects — from beautifully animated websites to intelligent AI-powered tools.
 
 ---
 
@@ -41,7 +41,10 @@ I love transforming creative ideas into functional projects—from beautifully a
 ## 💻 Featured Projects
 
 ### 🎉 Interactive Birthday Surprise Website
-A heartfelt birthday experience with rich animations, interactive elements, and music.  
+A heartfelt birthday experience with rich animations and interactive elements.  
+
+![Birthday Preview](https://link-to-your-birthday-gif.gif)  
+
 - ✨ Typing animations & image sliders  
 - 🎵 Music player & dynamic compliments  
 - 🎨 Custom UI effects  
@@ -51,7 +54,10 @@ A heartfelt birthday experience with rich animations, interactive elements, and 
 ---
 
 ### 🌹 Rose Day Interactive Website
-Romantic-themed web experience with elegant UI and smooth animations.  
+Romantic-themed web experience with smooth animations and elegant UI.  
+
+![Rose Day Preview](https://link-to-your-roseday-gif.gif)  
+
 - 🌸 Falling petals animation  
 - 📖 Flipbook messages  
 - ✨ Smooth transitions & custom effects  
@@ -62,6 +68,9 @@ Romantic-themed web experience with elegant UI and smooth animations.
 
 ### 🤝 Friendship Day Surprise Website
 Celebrate friendships with engaging animations and interactive elements.  
+
+![Friendship Preview](https://link-to-your-friendship-gif.gif)  
+
 - 🎭 Dynamic animations  
 - 💬 Interactive messaging  
 - 📱 Fully responsive design  
@@ -72,6 +81,9 @@ Celebrate friendships with engaging animations and interactive elements.
 
 ### 🤖 AI Career Counselor
 AI-powered career exploration tool with intelligent suggestions and guidance.  
+
+![AI Career Preview](https://link-to-your-ai-gif.gif)  
+
 - 🧠 ML-based recommendations  
 - 🎓 Career path insights  
 - 💼 Skill analysis  
@@ -82,6 +94,8 @@ AI-powered career exploration tool with intelligent suggestions and guidance.
 
 ### 📚 DSA in C++ Journey
 Mastering data structures and algorithms from fundamentals to advanced concepts.  
+
+![DSA Preview](https://link-to-your-dsa-gif.gif)  
 
 **Topics Covered:** Arrays, Strings, Stacks, Queues, Trees, Graphs, Sorting & Searching, Dynamic Programming  
 
@@ -108,9 +122,7 @@ Actively exploring security concepts and hands-on hacking with Kali Linux.
 ![Chetan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChetanVerma07&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanVerma07&layout=compact&theme=tokyonight&hide_border=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChetanVerma07&theme=tokyonight)  
-![Contribution Snake](https://github.com/chetanverma07/chetanverma07/blob/output/github-contribution-grid-snake.svg)  
-
-![Contribution Snake](https://github.com/chetanverma07/chetanverma07/blob/main/github-contribution-grid-snake.svg)
+![Contribution Snake](https://github.com/chetanverma07/chetanverma07/blob/main/github-contribution-grid-snake.svg)  
 
 </div>
 
