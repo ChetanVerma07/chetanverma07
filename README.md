@@ -143,7 +143,7 @@ Actively exploring security concepts and hands-on hacking with Kali Linux.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ChetanVerma07-black?style=flat&logo=github)](https://github.com/ChetanVerma07)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-blue?style=flat&logo=linkedin)](https://linkedin.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chetan-verma-blue?style=flat&logo=linkedin)](www.linkedin.com/in/chetan-verma-873841371)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-green?style=flat)](https://portfolio.com)  
 
 </div>
