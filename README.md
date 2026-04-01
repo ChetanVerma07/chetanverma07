@@ -132,7 +132,7 @@ Actively exploring security concepts and hands-on hacking with Kali Linux.
 
 - ✅ Master Data Structures & Algorithms with C++  
 - ✅ Build production-ready AI applications  
-- ✅ Secure GSoC 2026 opportunity  
+- ✅ Try Best For GSoC 2026 
 - ✅ Contribute meaningfully to open-source  
 - ✅ Develop impactful full-stack projects  
 
