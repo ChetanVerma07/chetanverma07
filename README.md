@@ -4,7 +4,7 @@
 
 ---
 
-# 👋 Hi, I'm Chetan Verma
+# Hi, I'm Chetan Verma
 
 **Full-Stack Developer | AI Enthusiast | Linux & Security Explorer**
 
@@ -13,18 +13,18 @@ I turn ideas into functional projects — from beautifully animated websites to 
 
 ---
 
-## 🚀 Quick About Me
+## Quick About Me
 
-- 🎓 **ECE Student** (1st Year)  
-- 💻 **Full-Stack Developer** — React, Node.js, MongoDB  
-- 🤖 **AI Builder** — Crafting intelligent applications  
-- 🐧 **Linux & Cybersecurity** — CTF challenges, networking, security concepts  
-- 📚 **Currently Learning** — Data Structures & Algorithms (C++)  
-- 🎯 **Goal** — Google Summer of Code (GSoC) 2026
+-  **ECE Student** (1st Year)  
+-  **Full-Stack Developer** — React, Node.js, MongoDB  
+-  **AI Builder** — Crafting intelligent applications  
+-  **Linux & Cybersecurity** — CTF challenges, networking, security concepts  
+-  **Currently Learning** — Data Structures & Algorithms (C++)  
+-  **Goal** — Google Summer of Code (GSoC) 2026
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Category | Technologies |
 |----------|--------------|
@@ -38,61 +38,61 @@ I turn ideas into functional projects — from beautifully animated websites to 
 
 ---
 
-## 💻 Featured Projects
+##  Featured Projects
 
-### 🎉 Interactive Birthday Surprise Website
+###  Interactive Birthday Surprise Website
 A heartfelt birthday experience with rich animations and interactive elements.  
 
 ![Birthday Preview](https://link-to-your-birthday-gif.gif)  
 
-- ✨ Typing animations & image sliders  
-- 🎵 Music player & dynamic compliments  
-- 🎨 Custom UI effects  
+-  Typing animations & image sliders  
+-  Music player & dynamic compliments  
+-  Custom UI effects  
 
 [Live Demo](#) | [GitHub](#)
 
 ---
 
-### 🌹 Rose Day Interactive Website
+###  Rose Day Interactive Website
 Romantic-themed web experience with smooth animations and elegant UI.  
 
 ![Rose Day Preview](https://link-to-your-roseday-gif.gif)  
 
-- 🌸 Falling petals animation  
-- 📖 Flipbook messages  
-- ✨ Smooth transitions & custom effects  
+-  Falling petals animation  
+-  Flipbook messages  
+-  Smooth transitions & custom effects  
 
 [Live Demo](#) | [GitHub](#)
 
 ---
 
-### 🤝 Friendship Day Surprise Website
+###  Friendship Day Surprise Website
 Celebrate friendships with engaging animations and interactive elements.  
 
 ![Friendship Preview](https://link-to-your-friendship-gif.gif)  
 
-- 🎭 Dynamic animations  
-- 💬 Interactive messaging  
-- 📱 Fully responsive design  
+-  Dynamic animations  
+-  Interactive messaging  
+-  Fully responsive design  
 
 [Live Demo](#) | [GitHub](#)
 
 ---
 
-### 🤖 AI Career Counselor
+###  AI Career Counselor
 AI-powered career exploration tool with intelligent suggestions and guidance.  
 
 ![AI Career Preview](https://link-to-your-ai-gif.gif)  
 
-- 🧠 ML-based recommendations  
-- 🎓 Career path insights  
-- 💼 Skill analysis  
+-  ML-based recommendations  
+-  Career path insights  
+-  Skill analysis  
 
 [Live Demo](#) | [GitHub](#)
 
 ---
 
-### 📚 DSA in C++ Journey
+###  DSA in C++ Journey
 Mastering data structures and algorithms from fundamentals to advanced concepts.  
 
 ![DSA Preview](https://link-to-your-dsa-gif.gif)  
@@ -103,19 +103,19 @@ Mastering data structures and algorithms from fundamentals to advanced concepts.
 
 ---
 
-## 🐧 Linux & Cybersecurity
+##  Linux & Cybersecurity
 
 Actively exploring security concepts and hands-on hacking with Kali Linux.  
 
 **Focus Areas:**  
-- 🏴 CTF (Capture The Flag) challenges  
-- 🔐 Networking fundamentals  
-- 🛠 Linux command-line tools & scripting  
-- 🔍 Security concepts & exploitation
+-  CTF (Capture The Flag) challenges  
+-  Networking fundamentals  
+-  Linux command-line tools & scripting  
+-  Security concepts & exploitation
 
 ---
 
-## 📊 GitHub Stats & Analytics
+##  GitHub Stats & Analytics
 
 <div align="center">
 
@@ -128,7 +128,7 @@ Actively exploring security concepts and hands-on hacking with Kali Linux.
 
 ---
 
-## 🎯 2026 Goals
+##  2026 Goals
 
 - ✅ Master Data Structures & Algorithms with C++  
 - ✅ Build production-ready AI applications  
@@ -138,7 +138,7 @@ Actively exploring security concepts and hands-on hacking with Kali Linux.
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
