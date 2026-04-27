@@ -8,8 +8,8 @@
 
 **Full-Stack Developer | AI Enthusiast | Linux & Security Explorer**
 
-1st-year ECE student passionate about building interactive web experiences, experimenting with AI, and exploring cybersecurity.  
-I turn ideas into functional projects — from beautifully animated websites to intelligent AI-powered tools.
+Hey i am chetan verma, A 1st-year ECE student passionate about building interactive web experiences, experimenting with AI, and exploring cybersecurity.  
+I turn ideas into functional projects, from beautifully animated websites to intelligent AI-powered tools.
 
 ---
 
@@ -19,7 +19,7 @@ I turn ideas into functional projects — from beautifully animated websites to 
 -  **Full-Stack Developer** — React, Node.js, MongoDB  
 -  **AI Builder** — Crafting intelligent applications  
 -  **Linux & Cybersecurity** — CTF challenges, networking, security concepts  
--  **Currently Learning** — Data Structures & Algorithms (C++)  
+-  **Currently Learning** — Data Structures & Algorithms (C++), Android Development  
 -  **Goal** — Google Summer of Code (GSoC) 2026
 
 ---
@@ -32,9 +32,10 @@ I turn ideas into functional projects — from beautifully animated websites to 
 | **Frontend** | ![React](https://img.shields.io/badge/React-blue?logo=react), HTML, CSS |
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js), Express |
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb), MySQL (learning) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git), GitHub, Linux, VS Code, Docker |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git), GitHub, Linux, VS Code, Docker, Android Studio |
 | **Deployment** | Vercel, Render, Railway |
 | **AI Tools** | ChatGPT, Claude, Gemini, GitHub Copilot, Others |
+| **Micro Controllers** | Arduino UNO, Raspberry pi |
 
 ---
 
