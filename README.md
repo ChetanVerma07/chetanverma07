@@ -144,10 +144,11 @@ Actively exploring security concepts and hands-on hacking with Kali Linux.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ChetanVerma07-black?style=flat&logo=github)](https://github.com/ChetanVerma07)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chetan%20Verma-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-verma-873841371/) 
+[![GitHub](https://img.shields.io/badge/GitHub-ChetanVerma07-black?style=flat&logo=github)](https://github.com/ChetanVerma07)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chetan%20Verma-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-verma-873841371/)
 [![Instagram](https://img.shields.io/badge/Instagram-not_meeagainn-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/not_meeagainn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-green?style=flat)](https://portfolio.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-green?style=flat)](https://portfolio.com)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ChetanVerma07&color=blue)
 
