@@ -132,7 +132,8 @@ Actively exploring security concepts and hands-on hacking with Kali Linux.
 ##  2026 Goals
 
 - ✅ Master Data Structures & Algorithms with C++  
-- ✅ Build production-ready AI applications  
+- ✅ Build production-ready AI applications
+- ✅ Build production-ready applications  
 - ✅ Try Best For GSoC 2026 
 - ✅ Contribute meaningfully to open-source  
 - ✅ Develop impactful full-stack projects  
