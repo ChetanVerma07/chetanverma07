@@ -148,7 +148,6 @@ Actively exploring security concepts and hands-on hacking with Kali Linux.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chetan%20Verma-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-verma-873841371/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-green?style=flat)](https://portfolio.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-not_meeagainn-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/not_meeagainn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-green?style=flat)](https://portfolio.com)
 
 </div>
 
