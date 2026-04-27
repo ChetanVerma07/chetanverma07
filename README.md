@@ -28,13 +28,13 @@ I turn ideas into functional projects — from beautifully animated websites to 
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript) JavaScript, ![Python](https://img.shields.io/badge/Python-blue?logo=python) Python, ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus) C, C++ |
-| **Frontend** | ![React](https://img.shields.io/badge/React-blue?logo=react) React, HTML, CSS |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js) Node.js, Express |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb) MongoDB, MySQL (learning) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git) Git, GitHub, Linux, VS Code, Docker |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript), ![Python](https://img.shields.io/badge/Python-blue?logo=python), ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus), C|
+| **Frontend** | ![React](https://img.shields.io/badge/React-blue?logo=react), HTML, CSS |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js), Express |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb), MySQL (learning) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git), GitHub, Linux, VS Code, Docker |
 | **Deployment** | Vercel, Render, Railway |
-| **AI Tools** | ChatGPT, Claude, Gemini, GitHub Copilot |
+| **AI Tools** | ChatGPT, Claude, Gemini, GitHub Copilot, Others |
 
 ---
 
