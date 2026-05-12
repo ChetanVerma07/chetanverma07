@@ -106,6 +106,10 @@ Like;
 - User Can Make and Add Friends in The AI Application
 - Can Post Anything They Want
 - All in One Place Ai, Switches Between API's as Per The Prompt
+- Prepaid and Postpaid Api System
+- Alot Of Other Cool Features
+
+  Launching Soon
 
 ##  Linux & Cybersecurity
 
