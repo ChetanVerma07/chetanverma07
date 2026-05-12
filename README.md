@@ -36,6 +36,7 @@ I turn ideas into functional projects, from beautifully animated websites to int
 | **Deployment** | Vercel, Render, Railway |
 | **AI Tools** | ChatGPT, Claude, Gemini, GitHub Copilot, Others |
 | **Micro Controllers** | Arduino UNO, Raspberry pi |
+| **Linux & Cybersecurity** | Tools - John The Ripper, Zphisher, SQLmap, Hashcat, Wireshark, Burp suite, Mertasploit Framework, Nmap etc. |
 
 ---
 
@@ -108,6 +109,8 @@ Mastering data structures and algorithms from fundamentals to advanced concepts.
 
 Actively exploring security concepts and hands-on hacking with Kali Linux.  
 
+Tools - John The Ripper, Zphisher, SQLmap, Hashcat, Wireshark, Burp suite, Mertasploit Framework, Nmap etc.
+
 **Focus Areas:**  
 -  CTF (Capture The Flag) challenges  
 -  Networking fundamentals  
@@ -119,6 +122,8 @@ Actively exploring security concepts and hands-on hacking with Kali Linux.
 ##  GitHub Stats & Analytics
 
 <div align="center">
+
+![Cyber sec preview](https://link-to-your-dsa-gif.gif)
 
 ![Chetan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChetanVerma07&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanVerma07&layout=compact&theme=tokyonight&hide_border=true)  
@@ -137,7 +142,7 @@ Actively exploring security concepts and hands-on hacking with Kali Linux.
 - ✅ Try Best For GSoC 2026 
 - ✅ Contribute meaningfully to open-source  
 - ✅ Develop impactful full-stack projects  
-
+- ✅ Diving deep into cybersecurity
 ---
 
 ##  Connect With Me
