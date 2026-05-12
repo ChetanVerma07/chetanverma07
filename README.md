@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Chetan+Verma;Full-Stack+Developer;AI+Builder;Linux+%26+Cybersecurity+Explorer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Chetan+Verma;Full-Stack+Developer;AI+Builder;Linux+%26+Security+Explorer" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,10 +28,10 @@ I turn ideas into functional projects, from beautifully animated websites to int
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript), ![Python](https://img.shields.io/badge/Python-blue?logo=python), ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus), C|
-| **Frontend** | ![React](https://img.shields.io/badge/React-blue?logo=react), HTML, CSS |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js), Express |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb), MySQL (learning) |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript), ![Python](https://img.shields.io/badge/Python-blue?logo=python), ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus), ![C](https://img.shields.io/badge/C-A8B9CC?logo=c), ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-blue?logo=react), ![HTML](https://img.shields.io/badge/HTML5-E34C26?logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js), ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb), ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git), GitHub, Linux, VS Code, Docker, Android Studio |
 | **Deployment** | Vercel, Render, Railway |
 | **AI Tools** | ChatGPT, Claude, Gemini, GitHub Copilot, Others |
