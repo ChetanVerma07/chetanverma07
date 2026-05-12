@@ -49,7 +49,7 @@ A heartfelt birthday experience with rich animations and interactive elements.
 -  Music player & dynamic compliments  
 -  Custom UI effects  
 
-[Coming Soon](#) | [Repository](#)
+live privew [Coming Soon](#) | [Repository](#)
 
 ---
 
@@ -60,7 +60,7 @@ Romantic-themed web experience with smooth animations and elegant UI.
 -  Flipbook messages  
 -  Smooth transitions & custom effects  
 
-[Coming Soon](#) | [Repository](#)
+live privew [Coming Soon](#) | [Repository](#)
 
 ---
 
@@ -71,7 +71,7 @@ Celebrate friendships with engaging animations and interactive elements.
 -  Interactive messaging  
 -  Fully responsive design  
 
-[Coming Soon](#) | [Repository](#)
+live privew [Coming Soon](#) | [Repository](#)
 
 ---
 
@@ -82,7 +82,7 @@ AI-powered career exploration tool with intelligent suggestions and guidance.
 -  Career path insights  
 -  Skill analysis  
 
-[Coming Soon](#) | [Repository](#)
+live privew [Coming Soon](#) | [Repository](#)
 
 ---
 
@@ -95,9 +95,25 @@ Mastering data structures and algorithms from fundamentals to advanced concepts.
 
 ---
 
+## QuantAI
+
+An fully developed ai application with alot of USP's
+Like;
+
+- Offering Coustom Ai Chatbot Training Feature via Dataset.
+- Voice Feautre trained through RVC, Inshort A Whole Virtual Soul Of Someone They Want Of!
+- Ai + Social Media feature
+- User Can Make and Add Friends in The AI Application
+- Can Post Anything They Want
+- All in One Place Ai, Switches Between API's as Per The Prompt
+
 ##  Linux & Cybersecurity
 
-Actively exploring security concepts and hands-on hacking with Kali Linux.  
+Actively exploring security concepts and hands-on hacking with Kali Linux. 
+
+Tools used - John The Ripper, Zphisher, Nmap, Metasploit, Burp suite, Wireshark, Hashcat, SQLmap etc.
+
+![Linux_Preview](lib/cybersec.png)
 
 **Focus Areas:**  
 -  CTF (Capture The Flag) challenges  
