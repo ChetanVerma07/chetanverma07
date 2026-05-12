@@ -16,11 +16,11 @@ I turn ideas into functional projects, from beautifully animated websites to int
 ## Quick About Me
 
 -  **ECE Student** (1st Year)  
--  **Full-Stack Developer** — React, Node.js, MongoDB  
--  **AI Builder** — Crafting intelligent applications  
--  **Linux & Cybersecurity** — CTF challenges, networking, security concepts  
--  **Currently Learning** — Data Structures & Algorithms (C++), Android Development  
--  **Goal** — Google Summer of Code (GSoC) 2026
+-  **Full-Stack Developer** - React, Node.js, MongoDB  
+-  **AI Builder** - Crafting intelligent applications  
+-  **Linux & Cybersecurity** - CTF challenges, networking, security concepts  
+-  **Currently Learning** - Data Structures & Algorithms (C++), Android Development  
+-  **Goal** - Google Summer of Code (GSoC) 2026
 
 ---
 
