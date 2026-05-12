@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Chetan+Verma;Full-Stack+Developer;AI+Builder;Security+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Chetan+Verma;Full-Stack+Developer;AI+Builder;Linux+Security+Explorer" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,12 +28,12 @@ I turn ideas into functional projects, from beautifully animated websites to int
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript), ![Python](https://img.shields.io/badge/Python-blue?logo=python), ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white), ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black), ![HTML5](https://img.shields.io/badge/HTML5-E34C26?logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white), ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white), ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white), ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white), ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white), ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black), ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white), ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
-| **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white), ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white), ![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white) |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white) |
+| **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white) |
 | **AI Tools** | ChatGPT, Claude, Gemini, GitHub Copilot |
 | **Micro Controllers** | Arduino UNO, Raspberry Pi |
 | **Security Tools** | Kali Linux, Burp Suite, Wireshark, Nmap, SQLmap, John The Ripper |
@@ -49,7 +49,7 @@ A heartfelt birthday experience with rich animations and interactive elements.
 -  Music player & dynamic compliments  
 -  Custom UI effects  
 
-[Live Demo](#) | [GitHub](#)
+[Coming Soon](#) | [Repository](#)
 
 ---
 
@@ -60,7 +60,7 @@ Romantic-themed web experience with smooth animations and elegant UI.
 -  Flipbook messages  
 -  Smooth transitions & custom effects  
 
-[Live Demo](#) | [GitHub](#)
+[Coming Soon](#) | [Repository](#)
 
 ---
 
@@ -71,7 +71,7 @@ Celebrate friendships with engaging animations and interactive elements.
 -  Interactive messaging  
 -  Fully responsive design  
 
-[Live Demo](#) | [GitHub](#)
+[Coming Soon](#) | [Repository](#)
 
 ---
 
@@ -82,7 +82,7 @@ AI-powered career exploration tool with intelligent suggestions and guidance.
 -  Career path insights  
 -  Skill analysis  
 
-[Live Demo](#) | [GitHub](#)
+[Coming Soon](#) | [Repository](#)
 
 ---
 
@@ -157,7 +157,7 @@ Actively exploring security concepts and hands-on hacking with Kali Linux.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chetan%20Verma-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-verma-873841371/)
 [![Instagram](https://img.shields.io/badge/Instagram-not_meeagainn-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/not_meeagainn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-green?style=flat-square)](https://portfolio.com)
-[![Email](https://img.shields.io/badge/Email-Connect-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:chetanverma@example.com)
 
 </div>
 
