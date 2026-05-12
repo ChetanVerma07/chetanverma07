@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Chetan+Verma;Full-Stack+Developer;AI+Builder;Linux+Security+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Chetan+Verma;Full-Stack+Developer;AI+Builder" alt="Typing Animation">
 </p>
 
 ---
@@ -28,11 +28,11 @@ I turn ideas into functional projects, from beautifully animated websites to int
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) |
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white) |
 | **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white) |
 | **AI Tools** | ChatGPT, Claude, Gemini, GitHub Copilot |
 | **Micro Controllers** | Arduino UNO, Raspberry Pi |
@@ -118,17 +118,19 @@ Actively exploring security concepts and hands-on hacking with Kali Linux.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanVerma07&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ChetanVerma07)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChetanVerma07&theme=tokyonight)](https://github.com/ChetanVerma07)
+### 🎯 GitHub Streak Stats
 
-### 🎯 Contribution Graph
+[![GitHub Streak](https://streak-stats.demolab.com?user=ChetanVerma07&theme=tokyonight)](https://github.com/ChetanVerma07)
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ChetanVerma07&theme=tokyonight&hide_border=true)](https://github.com/ChetanVerma07)
+### 📈 Contribution Activity
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChetanVerma07&theme=tokyonight&hide_border=true)](https://github.com/ChetanVerma07)
 
 ### 🐍 Contribution Snake Animation
 
-![Snake animation](https://github.com/ChetanVerma07/ChetanVerma07/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/ChetanVerma07/chetanverma07/blob/output/github-contribution-grid-snake-dark.svg)
 
-### 📈 Additional Stats
+### 📊 Additional Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ChetanVerma07&color=00F7FF&style=flat-square)
 [![GitHub Followers](https://img.shields.io/github/followers/ChetanVerma07?style=social)](https://github.com/ChetanVerma07?tab=followers)
