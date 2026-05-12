@@ -49,7 +49,7 @@ A heartfelt birthday experience with rich animations and interactive elements.
 -  Music player & dynamic compliments  
 -  Custom UI effects  
 
-live privew [Coming Soon](#) | [Repository](#)
+live preview [Coming Soon](#) | [Repository](#)
 
 ---
 
@@ -60,7 +60,7 @@ Romantic-themed web experience with smooth animations and elegant UI.
 -  Flipbook messages  
 -  Smooth transitions & custom effects  
 
-live privew [Coming Soon](#) | [Repository](#)
+live preview [Coming Soon](#) | [Repository](#)
 
 ---
 
@@ -71,7 +71,7 @@ Celebrate friendships with engaging animations and interactive elements.
 -  Interactive messaging  
 -  Fully responsive design  
 
-live privew [Coming Soon](#) | [Repository](#)
+live preview [Coming Soon](#) | [Repository](#)
 
 ---
 
@@ -82,7 +82,7 @@ AI-powered career exploration tool with intelligent suggestions and guidance.
 -  Career path insights  
 -  Skill analysis  
 
-live privew [Coming Soon](#) | [Repository](#)
+live preview [Coming Soon](#) | [Repository](#)
 
 ---
 
