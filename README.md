@@ -108,7 +108,7 @@ Actively exploring security concepts and hands-on hacking with Kali Linux.
 
 ---
 
-##  📊 GitHub Stats & Analytics
+##  GitHub Stats & Analytics
 
 <div align="center">
 
@@ -118,7 +118,7 @@ Actively exploring security concepts and hands-on hacking with Kali Linux.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanVerma07&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ChetanVerma07)
 
-### 🎯 GitHub Streak Stats
+### GitHub Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ChetanVerma07&theme=tokyonight)](https://github.com/ChetanVerma07)
 
@@ -126,11 +126,11 @@ Actively exploring security concepts and hands-on hacking with Kali Linux.
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChetanVerma07&theme=tokyonight&hide_border=true)](https://github.com/ChetanVerma07)
 
-### 🐍 Contribution Snake Animation
+### A game? haha nope
 
 ![Snake animation](https://raw.githubusercontent.com/ChetanVerma07/chetanverma07/main/github-contribution-grid-snake.svg)
 
-### 📊 Additional Stats
+### Additional Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ChetanVerma07&color=00F7FF&style=flat-square)
 [![GitHub Followers](https://img.shields.io/github/followers/ChetanVerma07?style=social)](https://github.com/ChetanVerma07?tab=followers)
