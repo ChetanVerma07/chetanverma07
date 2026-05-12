@@ -123,7 +123,7 @@ Tools - John The Ripper, Zphisher, SQLmap, Hashcat, Wireshark, Burp suite, Merta
 
 <div align="center">
 
-![Cyber sec preview](https://link-to-your-dsa-gif.gif)
+![Cyber sec preview](lib/cybersec.png)
 
 ![Chetan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChetanVerma07&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanVerma07&layout=compact&theme=tokyonight&hide_border=true)  
