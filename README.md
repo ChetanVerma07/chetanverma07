@@ -47,7 +47,8 @@ A heartfelt birthday experience with rich animations and interactive elements.
 
 -  Typing animations & image sliders  
 -  Music player & dynamic compliments  
--  Custom UI effects  
+-  Custom UI effects
+-  Interactive screens 
 
 live preview [Coming Soon](#) | [Repository](#)
 
@@ -56,9 +57,11 @@ live preview [Coming Soon](#) | [Repository](#)
 ###  Rose Day Interactive Website
 Romantic-themed web experience with smooth animations and elegant UI.  
 
--  Falling petals animation  
--  Flipbook messages  
--  Smooth transitions & custom effects  
+-  Falling petals animation (coded)  
+-  Interective flipbook with smooth animations  
+-  Smooth transitions & custom effects
+-  Media usage
+-  Beautifully crafted and Designed screens  
 
 live preview [Coming Soon](#) | [Repository](#)
 
@@ -69,7 +72,9 @@ Celebrate friendships with engaging animations and interactive elements.
 
 -  Dynamic animations  
 -  Interactive messaging  
--  Fully responsive design  
+-  Fully responsive design
+-  Little inbuilt game
+-  Music and Watermark  
 
 live preview [Coming Soon](#) | [Repository](#)
 
@@ -80,7 +85,9 @@ AI-powered career exploration tool with intelligent suggestions and guidance.
 
 -  ML-based recommendations  
 -  Career path insights  
--  Skill analysis  
+-  Skill analysis
+-  AI assistent
+-  Live-Data analytics  
 
 live preview [Coming Soon](#) | [Repository](#)
 
@@ -115,7 +122,7 @@ Like;
 
 Actively exploring security concepts and hands-on hacking with Kali Linux. 
 
-Tools used - John The Ripper, Zphisher, Nmap, Metasploit, Burp suite, Wireshark, Hashcat, SQLmap etc.
+Tools used to - John The Ripper, Zphisher, Nmap, Metasploit, Burp suite, Wireshark, Hashcat, SQLmap etc.
 
 ![Linux_Preview](lib/cybersec.png)
 
@@ -177,7 +184,7 @@ Tools used - John The Ripper, Zphisher, Nmap, Metasploit, Burp suite, Wireshark,
 
 [![GitHub](https://img.shields.io/badge/GitHub-ChetanVerma07-black?style=flat-square&logo=github)](https://github.com/ChetanVerma07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chetan%20Verma-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-verma-873841371/)
-[![Instagram](https://img.shields.io/badge/Instagram-not_meeagainn-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/not_meeagainn)
+[![Instagram](https://img.shields.io/badge/Instagram-Chetan_Verma-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/not_meeagainn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-green?style=flat-square)](https://portfolio.com)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:chetanverma@example.com)
 
@@ -185,4 +192,4 @@ Tools used - John The Ripper, Zphisher, Nmap, Metasploit, Burp suite, Wireshark,
 
 ---
 
-**Always building, always learning, always improving.** 🚀
+**Always building, always learning, always improving.** 
