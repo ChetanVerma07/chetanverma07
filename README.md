@@ -24,6 +24,15 @@ I turn ideas into functional projects, from beautifully animated websites to int
 
 ---
 
+## Personal Info
+
+- Loves chess (2200 - blitz)
+- Loves instruments guitar - (intermediate), Piano (beginner), Violin (enthusiast)
+- Reader and a Writer - (Novels, Fiction/Non-fiction) 
+- Authors - Kafka, Dostoevsky, Daniel Goleman
+- Portrait Artist
+- Trader and Market analyst (have won several trading floors)
+
 ##  Tech Stack
 
 | Category | Technologies |
