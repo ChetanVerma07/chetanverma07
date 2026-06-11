@@ -22,17 +22,6 @@ I turn ideas into functional projects, from beautifully animated websites to int
 -  **Currently Learning** - Data Structures & Algorithms (C++), Android Development  
 -  **Goal** - Google Summer of Code (GSoC) 2026
 
----
-
-## Personal Info
-
-- Loves chess (2200 - blitz)
-- Loves instruments guitar - (intermediate), Piano (beginner), Violin (enthusiast)
-- Reader and a Writer - (Novels, Fiction/Non-fiction) 
-- Authors - Kafka, Dostoevsky, Daniel Goleman
-- Portrait Artist
-- Trader and Market analyst (have won several trading floors)
-
 ##  Tech Stack
 
 | Category | Technologies |
@@ -50,6 +39,79 @@ I turn ideas into functional projects, from beautifully animated websites to int
 ---
 
 ##  Featured Projects
+
+### Banking Management System
+Complete financial management solution with account operations, transactions, and record management.
+
+![Banking System Preview](https://link-to-your-banking-gif.gif)
+
+- Multi-account support (Current/Savings)
+- Deposit, Withdrawal & Fund Transfers
+- Real-time transaction history & logging
+- Account search & balance inquiry
+- Persistent data storage with file I/O
+
+[Source Code](https://github.com/ChetanVerma07/C---PROJECTS/blob/main/ProjectGridSecond/BankigSystem.cpp) | [Details](#)
+
+---
+
+### Blood Bank Management System
+Healthcare information system for managing blood donor databases and inventory.
+
+![Blood Bank Preview](https://link-to-your-bloodbank-gif.gif)
+
+- Donor registration & tracking
+- Blood group categorization & search
+- Eligibility verification system
+- Donor history & donation records
+- Advanced search capabilities
+
+[Source Code](https://github.com/ChetanVerma07/C---PROJECTS/blob/main/ProjectGridSecond/BloodBankManagementSystem.cpp) | [Details](#)
+
+---
+
+### Library Management System
+Comprehensive library operations platform for book catalog and member management.
+
+![Library System Preview](https://link-to-your-library-gif.gif)
+
+- Book inventory management
+- Advanced search (title, author, ISBN)
+- Member registration & tracking
+- Issue & return book functionality
+- Persistent database with file handling
+
+[Source Code](https://github.com/ChetanVerma07/C---PROJECTS/blob/main/ProjectGridSecond/LibraryMaageSystem.cpp) | [Details](#)
+
+---
+
+### QuantCalc - Advanced Financial Calculator
+Powerful quantitative analysis tool for financial computations and investment calculations.
+
+![QuantCalc Preview](https://link-to-your-quantcalc-gif.gif)
+
+- Real-time financial metrics
+- Investment analysis & projections
+- Advanced calculations
+- Intuitive UI
+
+[Live Demo](#) | [GitHub](#)
+
+---
+
+### Market Analysis Tool
+Comprehensive market analysis platform for data-driven investment insights and trend analysis.
+
+![Market Analysis Preview](https://github.com/ChetanVerma07/Market_Analysis-/blob/main/Screenshot%202026-02-02%20012920.png)
+
+- Real-time market data visualization
+- Trend analysis & forecasting
+- In-depth market insights
+- Interactive dashboard
+
+[Live Demo](#) | [GitHub](#)
+
+---
 
 ###  Interactive Birthday Surprise Website
 A heartfelt birthday experience with rich animations and interactive elements.  
