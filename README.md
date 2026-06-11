@@ -102,7 +102,7 @@ Powerful quantitative analysis tool for financial computations and investment ca
 ### Market Analysis Tool
 Comprehensive market analysis platform for data-driven investment insights and trend analysis.
 
-![Market Analysis_Preview](lib/Screenshot 2026-02-02 012920.png)
+![Market Analysis_Preview](lib/Market.png)
 
 - Real-time market data visualization
 - Trend analysis & forecasting
