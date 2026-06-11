@@ -102,7 +102,7 @@ Powerful quantitative analysis tool for financial computations and investment ca
 ### Market Analysis Tool
 Comprehensive market analysis platform for data-driven investment insights and trend analysis.
 
-![Market Analysis Preview](https://github.com/ChetanVerma07/Market_Analysis-/blob/main/Screenshot%202026-02-02%20012920.png)
+![Market Analysis Preview](https://raw.githubusercontent.com/ChetanVerma07/Market_Analysis-/main/Screenshot%202026-02-02%20012920.png)
 
 - Real-time market data visualization
 - Trend analysis & forecasting
@@ -110,7 +110,6 @@ Comprehensive market analysis platform for data-driven investment insights and t
 - Interactive dashboard
 
 [Live Demo](#) | [GitHub](#)
-
 ---
 
 ###  Interactive Birthday Surprise Website
