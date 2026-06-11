@@ -254,7 +254,6 @@ Tools used to - John The Ripper, Zphisher, Nmap, Metasploit, Burp suite, Wiresha
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ChetanVerma07-black?style=flat-square&logo=github)](https://github.com/ChetanVerma07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chetan%20Verma-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-verma-873841371/)
 [![Instagram](https://img.shields.io/badge/Instagram-Chetan_Verma-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/not_meeagainn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-green?style=flat-square)](https://portfolio.com)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:chetanverma@example.com)
