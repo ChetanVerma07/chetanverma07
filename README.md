@@ -35,6 +35,7 @@ I turn ideas into functional projects, from beautifully animated websites to int
 | **AI Tools** | ChatGPT, Claude, Gemini, GitHub Copilot |
 | **Micro Controllers** | Arduino UNO, Raspberry Pi |
 | **Security Tools** | Kali Linux, Burp Suite, Wireshark, Nmap, SQLmap, John The Ripper |
+| **IDE** | VS Code, Android Studio, Antigravity |
 
 ---
 
