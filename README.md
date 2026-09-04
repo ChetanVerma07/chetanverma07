@@ -41,6 +41,113 @@ I turn ideas into functional projects, from beautifully animated websites to int
 
 ##  Featured Projects
 
+### Banking Management System
+Complete financial management solution with account operations, transactions, and record management.
+
+![Banking System Preview](https://link-to-your-banking-gif.gif)
+
+- Multi-account support (Current/Savings)
+- Deposit, Withdrawal & Fund Transfers
+- Real-time transaction history & logging
+- Account search & balance inquiry
+- Persistent data storage with file I/O
+
+[Source Code](https://github.com/ChetanVerma07/C---PROJECTS/blob/main/ProjectGridSecond/BankigSystem.cpp) | [Details](#)
+
+---
+
+### Blood Bank Management System
+Healthcare information system for managing blood donor databases and inventory.
+
+![Blood Bank Preview](https://link-to-your-bloodbank-gif.gif)
+
+- Donor registration & tracking
+- Blood group categorization & search
+- Eligibility verification system
+- Donor history & donation records
+- Advanced search capabilities
+
+[Source Code](https://github.com/ChetanVerma07/C---PROJECTS/blob/main/ProjectGridSecond/BloodBankManagementSystem.cpp) | [Details](#)
+
+---
+
+### Library Management System
+Comprehensive library operations platform for book catalog and member management.
+
+![Library System Preview](https://link-to-your-library-gif.gif)
+
+- Book inventory management
+- Advanced search (title, author, ISBN)
+- Member registration & tracking
+- Issue & return book functionality
+- Persistent database with file handling
+
+[Source Code](https://github.com/ChetanVerma07/C---PROJECTS/blob/main/ProjectGridSecond/LibraryMaageSystem.cpp) | [Details](#)
+
+---
+
+### QuantCalc - Advanced Financial Calculator
+Powerful quantitative analysis tool for financial computations and investment calculations.
+
+![QuantCalc Preview](https://link-to-your-quantcalc-gif.gif)
+
+- Real-time financial metrics
+- Investment analysis & projections
+- Advanced calculations
+- Intuitive UI
+
+[Live Demo](#) | [GitHub](#)
+
+---
+
+### Market Analysis Tool
+Comprehensive market analysis platform for data-driven investment insights and trend analysis.
+
+![Market Analysis_Preview](lib/Market.png)
+
+- Real-time market data visualization
+- Trend analysis & forecasting
+- In-depth market insights
+- Interactive dashboard
+
+[Live Demo](#) | [GitHub](#)
+
+---
+
+
+## QuantAI
+
+An fully developed ai application with alot of USP's
+Like;
+
+- Offering Coustom Ai Chatbot Training Feature via Dataset.
+- Voice Feautre trained through RVC, Inshort A Whole Virtual Soul Of Someone They Want Of!
+- Ai + Social Media feature
+- User Can Make and Add Friends in The AI Application
+- Can Post Anything They Want
+- All in One Place Ai, Switches Between API's as Per The Prompt
+- Prepaid and Postpaid Api System
+- Alot Of Other Cool Features
+
+  ***Launching Soon***
+
+##  Linux & Cybersecurity
+
+Actively exploring security concepts and hands-on hacking with Kali Linux. 
+
+Tools used to - John The Ripper, Zphisher, Nmap, Metasploit, Burp suite, Wireshark, Hashcat, SQLmap etc.
+
+![Linux_Preview](lib/cybersec.png) 
+
+**Focus Areas:**  
+-  CTF (Capture The Flag) challenges  
+-  Networking fundamentals  
+-  Linux command-line tools & scripting  
+-  Security concepts & exploitation  
+-  Penetration Testing
+
+---
+
 ###  Interactive Birthday Surprise Website
 A heartfelt birthday experience with rich animations and interactive elements.  
 
@@ -98,39 +205,6 @@ Mastering data structures and algorithms from fundamentals to advanced concepts.
 **Topics Covered:** Arrays, Strings, Stacks, Queues, Trees, Graphs, Sorting & Searching, Dynamic Programming  
 
 [Explore Repo](#)
-
----
-
-## QuantAI
-
-An fully developed ai application with alot of USP's
-Like;
-
-- Offering Coustom Ai Chatbot Training Feature via Dataset.
-- Voice Feautre trained through RVC, Inshort A Whole Virtual Soul Of Someone They Want Of!
-- Ai + Social Media feature
-- User Can Make and Add Friends in The AI Application
-- Can Post Anything They Want
-- All in One Place Ai, Switches Between API's as Per The Prompt
-- Prepaid and Postpaid Api System
-- Alot Of Other Cool Features
-
-  ***Launching Soon***
-
-##  Linux & Cybersecurity
-
-Actively exploring security concepts and hands-on hacking with Kali Linux. 
-
-Tools used to - John The Ripper, Zphisher, Nmap, Metasploit, Burp suite, Wireshark, Hashcat, SQLmap etc.
-
-![Linux_Preview](lib/cybersec.png) 
-
-**Focus Areas:**  
--  CTF (Capture The Flag) challenges  
--  Networking fundamentals  
--  Linux command-line tools & scripting  
--  Security concepts & exploitation  
--  Penetration Testing
 
 ---
 
