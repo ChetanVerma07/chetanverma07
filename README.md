@@ -6,7 +6,7 @@
 
 # Hi, I'm Chetan Verma
 
-**Full-Stack Developer | AI Enthusiast | Linux & Security Explorer**
+**Full-Stack Developer | AI Developer | Linux & Security**
 
 Hey i am chetan verma, Chief Technical Officer (CTO) of QuantSpace group, 1st-year ECE student passionate about building interactive web experiences, experimenting with AI, and exploring cybersecurity.  
 I turn ideas into functional projects, from beautifully animated websites to intelligent AI-powered tools.
